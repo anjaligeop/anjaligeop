@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @anjaligeop
 - 👀 I’m interested in coding, art, writing
 - 🌱 I’m currently learning Data Structures And Algorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 anjaligeop/anjaligeop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
